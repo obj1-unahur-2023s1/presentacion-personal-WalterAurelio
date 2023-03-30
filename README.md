@@ -1,9 +1,9 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+![Logo UNAHUR](./assets/Code_sfw_tiny.jpg)
 
-# Aurelio Gareca
+# Presentación
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+   Me llamo Aurelio Gareca, vivo en Hurlingham y estoy cursando el segundo año de la carrera Tecnicatura Universitaria en Programación, aunque tengo pensado continuar con la Licenciatura. Me empecé a interesar en la programación hace dos años y antes de anotarme a la carrera ya venía haciendo cursos y estudiando de forma autodidacta.
+   Tengo dos mascotas, un perro y un gato, y en mi tiempo libre me gusta escuchar música, tocar piano o practicar francés. La última película que ví y me gustó mucho fue The Whale.
 
 ```
 object programacionConObjetos { 
@@ -13,18 +13,20 @@ object programacionConObjetos {
 }
 ```
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes y Jueves 18hs.
-* Horario comisión **turno mañana**: Lunes y Jueves 8hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Lucas Bonadeo, Matías Müller y Tobías Di Salvo.
+## Materias que ya aprobé:
+* Introducción a lógica y problemas computacionales
+* Matemática para informática I
+* Organización de computadoras I
+* Programación estructurada
+* Matemática para informática II
+* Taller de lenguajes de marcado y tecnologías web
+* Nuevos entornos y lenguajes
+* Bases de datos
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1sZLzv_JN1kZeS35DMAUPCQhrWjenc_-VqbywLGje3B4/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/dkTB8wff) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+## Materias que estoy cursando este 1er cuatrimestre 2023:
+- Programación de Objetos I
+- Estructuras de datos
+- Inglés I
 
 ### Referencias Markdown 
 * [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
